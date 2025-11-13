@@ -19,7 +19,7 @@ A Streamlit application for geochemical analysis and machine learning classifica
 ## Setup and Usage
 
 **1. Clone the repository:**```bash
-git clone https://github.com/Dhruv-099/Geospatial-Mineral-Analysis.git
+git clone https://github.com/Tanishka102/Geology-Thesis-project.git
 cd Geospatial-Mineral-Analysis
 ```
 
